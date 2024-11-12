@@ -21,5 +21,6 @@ In the initial data preparation phase, we performed the following tasks:
 
 1. Data loading and inspection.
 2. Handling errors, missing values.
-3. Data cleaning and formatting. The Excel file after the data cleaning and with the dashboard can be found here 
-  
+3. Data cleaning and formatting. The Excel file after the data cleaning and with the dashboard can be found here - 
+  [Movies Data Analysis Dashboard.xlsx](https://github.com/user-attachments/files/17711509/Movies.Data.Analysis.Dashboard.xlsx)
+
