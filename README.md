@@ -2,12 +2,12 @@
 
 ## Table of Content
 [Project Overview](#project-overview) </br>
-[Data Sources](#data-sources)
-[Tools](#tools)
-[Data Cleaning and Preparation](#data-cleaning-and-preparation)
-[Exploratory Data Analysis](#exploratory-data-analysis)
-[Results and Findings](#results-and-findings)
-[Data Visualization](#data-visualization)
+[Data Sources](#data-sources) </br>
+[Tools](#tools) </br>
+[Data Cleaning and Preparation](#data-cleaning-and-preparation) </br>
+[Exploratory Data Analysis](#exploratory-data-analysis) </br>
+[Results and Findings](#results-and-findings) </br>
+[Data Visualization](#data-visualization) </br>
 [Challenges in Analysis](#challenges-in-analysis)
 
 
