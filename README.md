@@ -1,7 +1,8 @@
 # Movie Data Analysis Project
 
 ## Table of Content
-
+[Project Overview](#project-overview)
+[Data Sources](#data-sources)
 ### Project Overview
 This data analysis project aims to provide insights into the performance and trends of movies from 2013 to 2016. 
 
@@ -36,6 +37,7 @@ In the initial data preparation phase, we performed the following tasks:
 ### Results and Findings
 As an example: Best profitable movie was **"The Devil Inside"** with the budget of $1,000,000. Box Office Revenue was $102,000,000. The genre of this movie was horror. It might be a great idea to produce a horror movie, especially if Apple TV has a low budget for the next movie.
 
+![Best Profitable Movie](https://github.com/user-attachments/assets/09b54538-1814-43e1-9528-8ba074f5393e)
 
 The most successful genre is **action**.
 The most successful actor/actress by box office is **Jennifer Lawrence**.
@@ -45,4 +47,7 @@ There are three filters on the dashboard that filter our data. There are two cha
 Alos, we created tables showing top 5 movies, actors, directors by budget and box office revenues.
 ![Dashboard Screenshot](https://github.com/user-attachments/assets/938269ae-8b54-41d0-970b-a6284b4e5d81)
 
+### Challenges in Analysis
+Report how we worked on connection between the dashboards.
+Take a screeshot of the slicer and explain how the report connection works.
 
