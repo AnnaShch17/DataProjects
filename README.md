@@ -35,9 +35,14 @@ In the initial data preparation phase, we performed the following tasks:
 
 ### Results and Findings
 As an example: Best profitable movie was **"The Devil Inside"** with the budget of $1,000,000. Box Office Revenue was $102,000,000. The genre of this movie was horror. It might be a great idea to produce a horror movie, especially if Apple TV has a low budget for the next movie.
+
+
 The most successful genre is **action**.
 The most successful actor/actress by box office is **Jennifer Lawrence**.
 
 ### Data Visualization
+There are three filters on the dashboard that filter our data. There are two charts visualizing top 10 genres by box office revenue and release dates with box office revenue.
+Alos, we created tables showing top 5 movies, actors, directors by budget and box office revenues.
+![Dashboard Screenshot](https://github.com/user-attachments/assets/938269ae-8b54-41d0-970b-a6284b4e5d81)
 
 
