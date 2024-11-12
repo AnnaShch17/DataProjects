@@ -1,8 +1,16 @@
 # Movie Data Analysis Project
 
 ## Table of Content
-[Project Overview](#project-overview)
+[Project Overview](#project-overview) </br>
 [Data Sources](#data-sources)
+[Tools](#tools)
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+[Exploratory Data Analysis](#exploratory-data-analysis)
+[Results and Findings](#results-and-findings)
+[Data Visualization](#data-visualization)
+[Challenges in Analysis](#challenges-in-analysis)
+
+
 ### Project Overview
 This data analysis project aims to provide insights into the performance and trends of movies from 2013 to 2016. 
 
