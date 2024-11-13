@@ -56,16 +56,18 @@ Best profitable movie was the horror movie **"The Devil Inside"** with the budge
 
 Family movie called **"The Oogieloves in the Big Balloon Adventure"** was the least profitable movie with the budget of $20,000,000 and the box office revenue of $1,100,000.
 
+![Least Profitable Movie](https://github.com/user-attachments/assets/22b3db4f-97ed-4c9a-a017-079a99c8e43b)
 
 
 The most successful actress by the box office revenue was **Jennifer Lawrence** and the top actor by the movie budget was **Adam Sandler**.
 
 ### Data Visualization
-There are three filters on the dashboard that filter our data. There are two charts visualizing top 10 genres by box office revenue and release dates with box office revenue.
-Alos, we created tables showing top 5 movies, actors, directors by budget and box office revenues.
+There are three filters on the dashboard that filter our data - by release date, genre and movie director. There are two charts visualizing top 10 genres by box office revenue and release dates with box office revenue.
+Also, we created tables showing best and least profitable movies and top five movies and actors by budget and box office revenues.
 ![Dashboard Screenshot](https://github.com/user-attachments/assets/938269ae-8b54-41d0-970b-a6284b4e5d81)
 
 ### Challenges in Analysis
-Report how we worked on connection between the dashboards.
-Take a screeshot of the slicer and explain how the report connection works.
+
+One of the chalenges while working with movie data was to filter the required information in pivot tables and pivot charts. To do that, I use slicers that I connected to tables and charts. The connection was done by clicking the Slicer, then Report Connection and in the Dialog Box choosing the check box of the PivotTable in which I want the slicer to be available.
+
 
