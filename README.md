@@ -70,4 +70,5 @@ Also, we created tables showing best and least profitable movies and top five mo
 
 One of the chalenges while working with movie data was to filter the required information in pivot tables and pivot charts. To do that, I use slicers that I connected to tables and charts. The connection was done by clicking the Slicer, then Report Connection and in the Dialog Box choosing the check box of the PivotTable in which I want the slicer to be available.
 
+![Slicers](https://github.com/user-attachments/assets/fc3fc895-0173-4ac4-a22a-eacf75ba2f51)
 
