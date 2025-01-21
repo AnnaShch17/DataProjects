@@ -63,7 +63,7 @@ The most successful actress by the box office revenue was **Jennifer Lawrence** 
 
 ### Data Visualization
 There are three filters on the dashboard that filter our data - by release date, genre and movie director. There are two charts visualizing top 10 genres by box office revenue and release dates with box office revenue.
-Also, we created tables showing best and least profitable movies and top five movies and actors by budget and box office revenues.
+Also, I created tables showing best and least profitable movies and top five movies and actors by budget and box office revenues.
 ![Dashboard Screenshot](https://github.com/user-attachments/assets/938269ae-8b54-41d0-970b-a6284b4e5d81)
 
 ### Challenges in Analysis
